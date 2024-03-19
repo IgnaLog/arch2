@@ -1,0 +1,6 @@
+/dev/nvme0n1p5: UUID="081D-7D23" BLOCK_SIZE="512" TYPE="vfat" PARTLABEL="/boot" PARTUUID="d5e9cc11-ce0c-4a29-8d53-239bd08cbb2f"
+/dev/nvme0n1p3: BLOCK_SIZE="512" UUID="48D26BC6D26BB6BA" TYPE="ntfs" PARTLABEL="Basic data partition" PARTUUID="577d888d-4482-4e7c-a6ef-5c3e69646a63"
+/dev/nvme0n1p1: UUID="6409-81F8" BLOCK_SIZE="512" TYPE="vfat" PARTLABEL="EFI system partition" PARTUUID="97770cf6-6a4c-486e-ab14-ce22a8e0b5d5"
+/dev/nvme0n1p6: UUID="97df36d0-7ba3-4c2f-8c3f-7bf469a45161" BLOCK_SIZE="4096" TYPE="ext4" PARTLABEL="/root" PARTUUID="04572271-8820-4828-924c-7c607dbe5e7b"
+/dev/nvme0n1p4: BLOCK_SIZE="512" UUID="FC443842443801C6" TYPE="ntfs" PARTUUID="32df2fb5-6a13-438a-ad7c-79e026f9d2ab"
+/dev/nvme0n1p2: PARTLABEL="Microsoft reserved partition" PARTUUID="c657d730-7c34-4a7f-a30e-dfd8b48efb66"

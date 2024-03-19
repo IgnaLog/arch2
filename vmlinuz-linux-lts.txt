@@ -1,0 +1,1 @@
+/boot/vmlinuz-linux-lts: Linux kernel x86 boot executable bzImage, version 6.6.22-1-lts (linux-lts@archlinux) #1 SMP PREEMPT_DYNAMIC Sat, 16 Mar 2024 06:20:33 +0000, RO-rootFS, swap_dev 0XC, Normal VGA
